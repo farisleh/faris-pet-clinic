@@ -49,7 +49,7 @@
     <scm>
         <url>https://github.com/farisleh/faris-pet-clinic</url>
         <connection>scm:git:https://github.com/farisleh/faris-pet-clinic.git</connection>
-    </scm>
+  </scm>
 
 
 </project>
