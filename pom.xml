@@ -47,8 +47,8 @@
     </build>
 
     <scm>
-        <developerConnection>scm:git:git@github.com:farisleh/faris-pet-clinic.git</developerConnection>
-        <tag>HEAD</tag>
+        <url>https://github.com/farisleh/faris-pet-clinic</url>
+        <connection>scm:git:https://github.com/farisleh/faris-pet-clinic.git</connection>
     </scm>
 
 
