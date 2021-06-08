@@ -18,7 +18,7 @@
 
     <groupId>faris.springframework</groupId>
     <artifactId>faris-pet-clinic</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
 
     <name>faris-pet-clinic</name>
     <description>Faris Pet Clinic Project</description>
@@ -49,6 +49,7 @@
     <scm>
         <url>https://github.com/farisleh/faris-pet-clinic</url>
         <connection>scm:git:https://github.com/farisleh/faris-pet-clinic.git</connection>
+    <tag>faris-pet-clinic-0.0.1</tag>
   </scm>
 
 
