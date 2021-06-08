@@ -48,7 +48,7 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/farisleh/faris-pet-clinic.git</developerConnection>
-        <tag>Head</tag>
+        <tag>HEAD</tag>
     </scm>
 
 
