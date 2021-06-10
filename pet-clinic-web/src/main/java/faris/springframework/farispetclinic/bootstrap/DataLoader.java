@@ -4,8 +4,6 @@ import faris.springframework.farispetclinic.model.Owner;
 import faris.springframework.farispetclinic.model.Vet;
 import faris.springframework.farispetclinic.services.OwnerService;
 import faris.springframework.farispetclinic.services.VetService;
-import faris.springframework.farispetclinic.services.map.OwnerServiceMap;
-import faris.springframework.farispetclinic.services.map.VetServiceMap;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 
