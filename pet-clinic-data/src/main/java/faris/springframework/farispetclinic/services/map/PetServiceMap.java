@@ -2,9 +2,11 @@ package faris.springframework.farispetclinic.services.map;
 
 import faris.springframework.farispetclinic.model.Pet;
 import faris.springframework.farispetclinic.services.PetService;
+import org.springframework.stereotype.Service;
 
 import java.util.Set;
 
+@Service
 public class PetServiceMap extends AbstractMapService<Pet,Long> implements PetService {
 
     @Override
