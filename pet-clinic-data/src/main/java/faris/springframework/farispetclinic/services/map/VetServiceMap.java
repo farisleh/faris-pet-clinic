@@ -1,11 +1,11 @@
 package faris.springframework.farispetclinic.services.map;
 
 import faris.springframework.farispetclinic.model.Vet;
-import faris.springframework.farispetclinic.services.CrudService;
+import faris.springframework.farispetclinic.services.VetService;
 
 import java.util.Set;
 
-public class VetServiceMap extends AbstractMapService<Vet,Long> implements CrudService<Vet,Long> {
+public class VetServiceMap extends AbstractMapService<Vet,Long> implements VetService {
 
     @Override
     public Set<Vet> findAll() {
