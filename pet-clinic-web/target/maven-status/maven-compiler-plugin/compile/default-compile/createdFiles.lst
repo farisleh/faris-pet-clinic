@@ -1,1 +1,5 @@
+faris\springframework\farispetclinic\bootstrap\DataLoader.class
+faris\springframework\farispetclinic\controllers\IndexController.class
 faris\springframework\farispetclinic\FarisPetClinicApplication.class
+faris\springframework\farispetclinic\controllers\VetController.class
+faris\springframework\farispetclinic\controllers\OwnerController.class

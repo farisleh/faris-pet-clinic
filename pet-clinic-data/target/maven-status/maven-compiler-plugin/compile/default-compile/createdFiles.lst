@@ -1,5 +1,14 @@
+faris\springframework\farispetclinic\services\map\AbstractMapService.class
+faris\springframework\farispetclinic\model\Vet.class
 faris\springframework\farispetclinic\model\Person.class
+faris\springframework\farispetclinic\services\VetService.class
 faris\springframework\farispetclinic\model\Owner.class
+faris\springframework\farispetclinic\model\BaseEntity.class
+faris\springframework\farispetclinic\services\CrudService.class
+faris\springframework\farispetclinic\services\map\VetServiceMap.class
+faris\springframework\farispetclinic\services\OwnerService.class
 faris\springframework\farispetclinic\model\PetType.class
 faris\springframework\farispetclinic\model\Pet.class
-faris\springframework\farispetclinic\model\Vet.class
+faris\springframework\farispetclinic\services\map\PetServiceMap.class
+faris\springframework\farispetclinic\services\PetService.class
+faris\springframework\farispetclinic\services\map\OwnerServiceMap.class
